@@ -1,6 +1,6 @@
 # Heal Sync - Intelligent Healing for Smart Implants
 # Overview
-Heal Sync is a solution developed for the Shine Healthcare Hackathon 2025. It addresses the critical issue of post-surgery biomedical implant monitoring. By transforming implants from passive devices into intelligent healers, Heal Sync enables real-time health tracking and early detection of complications, dramatically improving patient outcomes.
+It addresses the critical issue of post-surgery biomedical implant monitoring. By transforming implants from passive devices into intelligent healers, Heal Sync enables real-time health tracking and early detection of complications, dramatically improving patient outcomes.
 
 # The Problem
 Currently, 45-65% of implants face complications like infection or rejection due to a lack of continuous monitoring. This leads to costly, painful and risky revision surgeries.
